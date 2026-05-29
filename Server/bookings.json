@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "userId": 4,
+    "tourId": 2,
+    "bookedAt": "2026-05-29T14:39:52.573Z"
+  },
+  {
+    "id": 2,
+    "userId": 5,
+    "tourId": 2,
+    "bookedAt": "2026-05-29T14:54:51.265Z"
+  },
+  {
+    "id": 3,
+    "userId": 5,
+    "tourId": 3,
+    "bookedAt": "2026-05-29T14:54:57.365Z"
+  },
+  {
+    "id": 4,
+    "userId": 5,
+    "tourId": 6,
+    "bookedAt": "2026-05-29T14:59:25.716Z"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "tourId": 4,
+    "bookedAt": "2026-05-29T15:02:15.325Z"
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "tourId": 2,
+    "bookedAt": "2026-05-29T18:28:18.452Z"
+  },
+  {
+    "id": 7,
+    "userId": 6,
+    "tourId": 1,
+    "bookedAt": "2026-05-29T18:29:13.535Z"
+  },
+  {
+    "id": 8,
+    "userId": 6,
+    "tourId": 3,
+    "bookedAt": "2026-05-29T18:29:15.243Z"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "login": "jupiter_driver",
+    "password": "jupiter123",
+    "role": "driver",
+    "planets": [
+      "Юпитер"
+    ]
+  },
+  {
+    "id": 2,
+    "login": "mars_moon_driver",
+    "password": "mars_moon123",
+    "role": "driver",
+    "planets": [
+      "Марс",
+      "Луна"
+    ]
+  },
+  {
+    "id": 3,
+    "login": "extreme_driver",
+    "password": "extreme123",
+    "role": "driver",
+    "planets": [
+      "Солнце",
+      "Чёрная дыра",
+      "KELT-9b"
+    ]
+  },
+  {
+    "id": 4,
+    "login": "Якрутой",
+    "password": "$2b$10$uCoCpqGSJNfofQfkAvqVPOy9a2jIuy9AetZe1A7KvOlLiRTFlW0Ua",
+    "role": "tourist"
+  },
+  {
+    "id": 5,
+    "login": "абоба",
+    "password": "$2b$10$Fg06LFaCpJMYhZUfHGU1x.Gz1pf56G937h.UhiaT.kPNECJ32tr4u",
+    "role": "tourist"
+  },
+  {
+    "id": 6,
+    "login": "Савелий захаров",
+    "password": "$2b$10$IKxGc7auODawz1qmGPnFBOtvH4xUq3WydqhsKH2xtB40LWZr2Ccxq",
+    "role": "tourist"
+  }
+]

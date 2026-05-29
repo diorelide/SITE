@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Луна",
+    "description": "Полет на Луну, прогулка по кратерам. Уникальная возможность увидеть Землю с орбиты.",
+    "price": 650000,
+    "image": "https://avatars.mds.yandex.net/i?id=54246e867a6da61c709eaf8e2758a092_l-8310669-images-thumbs&n=13",
+    "launchYear": 2105,
+    "driverId": 2
+  },
+  {
+    "id": 2,
+    "name": "Марс",
+    "description": "Красная планета, восхождение на Олимп. Марсианские закаты и долины.",
+    "price": 8500000,
+    "image": "https://i.ytimg.com/vi/K8kSnAAOihY/maxresdefault.jpg",
+    "launchYear": 2150,
+    "driverId": 2
+  },
+  {
+    "id": 3,
+    "name": "Юпитер",
+    "description": "Газовый гигант. Путешествие среди его спутников. Очень вкусная шаурма у водителя.",
+    "price": 4500000,
+    "image": "https://i.pinimg.com/736x/25/b5/fe/25b5fe8bff0d6410b44f18d84eafdf24.jpg",
+    "launchYear": 2280,
+    "driverId": 1
+  },
+  {
+    "id": 4,
+    "name": "Солнце",
+    "description": "Максимальное приближение, уникальная защита. Ночное светило вблизи.",
+    "price": 5000,
+    "image": "https://www.rmg.co.uk/sites/default/files/styles/full_width_1440/public/Solar%20Limb%20Prominence%20and%20Sunspot%20%C2%A9%20Eric%20Toops%20RU.jpg.webp?itok=QTQYV26Z",
+    "launchYear": 2500,
+    "driverId": 3
+  },
+  {
+    "id": 5,
+    "name": "Чёрная дыра",
+    "description": "Гравитационный манёвр, для смелых. Взгляд в сингулярность.",
+    "price": 100000000,
+    "image": "https://img.freepik.com/premium-photo/close-up-spiral-dark-night-generative-ai_900814-2176.jpg",
+    "launchYear": 3100,
+    "driverId": 3
+  },
+  {
+    "id": 6,
+    "name": "KELT-9b",
+    "description": "Самая горячая экзопланета. Температура выше, чем на некоторых звёздах.",
+    "price": 21120050.99,
+    "image": "https://media.rds.it/web/wp-content/uploads/2020/07/KELT-9b-1200x630.jpg",
+    "launchYear": 2890,
+    "driverId": 3
+  },
+  {
+    "id": 7,
+    "name": "Боба123",
+    "description": "Самые горячие булочки именно у бобы123, кола в подарок",
+    "price": 100000000,
+    "image": "а",
+    "launchYear": 21004,
+    "driverId": 1
+  }
+]
